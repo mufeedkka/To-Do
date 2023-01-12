@@ -6,9 +6,9 @@ Using jquery and its store local session
 
 ## Check It out
 
-To run tests, click the following link
+site is live at 
 
 ```bash
-  site is live at https://mufeedkka.github.io/To-Do/
+  https://mufeedkka.github.io/To-Do/
 ```
 
