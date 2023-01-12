@@ -9,6 +9,6 @@ Using jquery and its store local session
 To run tests, click the following link
 
 ```bash
-  npm run test
+  site is live at https://mufeedkka.github.io/To-Do/
 ```
 
